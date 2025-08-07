@@ -49,7 +49,10 @@ Final recommendations based on data.
 | Highest-Impact Fix               | Shared tap restoration and expansion |
 
 
+
 🧠 ERD Summary
+
+
 Main Tables:
 
 employee
@@ -70,7 +73,10 @@ location joins via location_id
 
 (See reports/ERD_model_explanation.md for full breakdown.)
 
+
 🚀 How to Use This Repo
+
+
 Clone the repository
 
 Open .sql files in MySQL Workbench (or equivalent)
@@ -81,7 +87,10 @@ View summarized insights in reports/
 
 Use slides/maji_ndogo_summary_slides.pdf for presentations or stakeholders
 
+
 🛠️ Tools Used
+
+
 MySQL / SQL Workbench
 
 Visual Studio Code (for SQL & Markdown)
@@ -90,7 +99,9 @@ Canva / PowerPoint (for slides)
 
 GitHub (project hosting and versioning)
 
+
 🔚 Recommendations
+
 🌊 Prioritize shared tap repairs and morning collection support
 
 🛠 Fix broken in-home taps for immediate household relief
